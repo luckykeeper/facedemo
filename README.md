@@ -4,6 +4,8 @@
 
 基于 dlib 随手糊的一个人脸识别
 
+博客文章：https://blog.luckykeeper.site:24680/article/48
+
 建议编译 dlib CUDA 版，Windows 可以正常运行，需要提前把照片放到指定文件夹中
 
 导入了 15989 张照片，效果还不错
